@@ -45,6 +45,7 @@ var Shop = function (name, average, min, max) {
     cell.appendChild(perDay);
     row.appendChild(cell);
     table.appendChild(row);
+    row.setAttribute('align', 'right');
 
   }
 

@@ -1,5 +1,22 @@
 
 body {
-      font-family: arial;          }
-      background-color: rgb(255,183,67);
+  font-family: Raleway;
+  background-color: #6A6A61;
+
+}
+
+section.bodySection {
+  background-color: #958976;
+}
+
+body>h1 {
+  background-color: #958976;
+}
+
+section.bodySection table {
+  background-color: #DDDCC5;
+}
+
+.paragraph {
+  max-width: 700px;
 }
